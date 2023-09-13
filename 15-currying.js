@@ -12,6 +12,8 @@ function soma(a) {
         }
     }
 }
+
 console.log(somaNumeros(2, 5, 7))
 
 const x = soma(2)(5)(7)
+console.log(x)

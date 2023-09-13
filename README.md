@@ -1,7 +1,7 @@
 # Programação funcional
 - Programação funcional foi inventada em 1957, antes da Programação estrutural e OO
 - Era usada muito mais em ambiente acadêmico, mas se popularizou através de linguagens comuns no mercado, como Python e Ruby
-- Funções são as "estrelas" da programação funcional
+- Funções são as "protagonistas" da programação funcional
 
 
 ## Declarativo X Imperativo
@@ -23,7 +23,7 @@
 - First Class Function
 - Higher Order Funcion
 - Composição de funções
-- Funções puras X funçôes impuras
+- Funções puras X funções impuras
 - Recursividade
 - Closure
 - Currying
